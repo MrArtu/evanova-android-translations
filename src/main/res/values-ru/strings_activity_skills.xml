@@ -2,12 +2,12 @@
 <resources>
   <string name="activity_skills_list_title">Навыки</string>
   <string name="activity_skills_list_description_all">Все</string>
-  <string name="activity_skills_list_description_trainable">Обучаемый</string>
-  <string name="activity_skills_list_description_known">Известен</string>
+  <string name="activity_skills_list_description_trainable">Можно изучить</string>
+  <string name="activity_skills_list_description_known">Изучено</string>
   <string name="activity_skills_skill_title">%1$s</string>
   <string name="activity_skills_skill_description">%1$s</string>
   <string name="activity_skills_tab_list">Навыки</string>
-  <string name="activity_skills_tab_training">Повышение квалификации</string>
+  <string name="activity_skills_tab_training">Обучение</string>
   <string name="activity_skills_tab_details">подробности</string>
   <string name="activity_skills_tab_required">Требуется для</string>
   <string name="activity_skills_attributes_primary">Основной атрибут</string>
@@ -22,11 +22,11 @@
   <string name="activity_skills_training_none"/>
   <string name="activity_skills_training_points">%1$d SP</string>
   <string name="activity_skills_export_title">Очередь на обучение</string>
-  <string name="activity_skills_ends">Заканчивается%s</string>
-  <string name="activity_skills_queued">От%1$s до%2$s</string>
+  <string name="activity_skills_ends">Заканчивается %s</string>
+  <string name="activity_skills_queued">От %1$s до %2$s</string>
   <string name="activity_skills_completed">Обучение завершено</string>
   <string name="activity_skills_queue_empty">Очередь обучения пуста</string>
-  <string name="activity_skills_queue_inactive">Очередь обучения неактивна</string>
+  <string name="activity_skills_queue_inactive">Обучение приостановлено</string>
   <string name="activity_skills_queue_skill_active">%1$s%2$d</string>
   <string name="activity_skills_queue_ends">Очередь заканчивается %1$s (%2$s)</string>
   <string name="activity_skills_queue_count">%1$d навыков в очереди - %2$d завершено</string>

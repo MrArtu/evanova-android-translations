@@ -5,17 +5,17 @@
   <string name="activity_assets_locations">Места</string>
   <string name="activity_assets_categories">Категории</string>
   <string name="activity_assets_items">Предметы</string>
-  <string name="activity_assets_flag_other">Другой</string>
-  <string name="activity_assets_flag_high">Высокий слот</string>
+  <string name="activity_assets_flag_other">Другое</string>
+  <string name="activity_assets_flag_high">Верхний слот</string>
   <string name="activity_assets_flag_med">Средний слот</string>
-  <string name="activity_assets_flag_low">Низкий слот</string>
-  <string name="activity_assets_flag_rig">Буровые установки</string>
+  <string name="activity_assets_flag_low">Нижний слот</string>
+  <string name="activity_assets_flag_rig">Риги</string>
   <string name="activity_assets_flag_hangar">Ангар</string>
   <string name="activity_assets_flag_cargo">Грузовой</string>
   <string name="activity_assets_flag_drones">Дрон Бэй</string>
   <string name="activity_assets_flag_safety">Безопасность активов</string>
   <string name="activity_assets_flag_deliveries">Корп. Поставки</string>
-  <string name="activity_assets_flag_impounded">конфискован</string>
+  <string name="activity_assets_flag_impounded">Конфискован</string>
   <string name="activity_assets_flag_ag">Актив корпорации</string>
   <plurals name="activity_assets_locations_group">
     <item quantity="zero">Нет товаров</item>
@@ -24,7 +24,7 @@
   </plurals>
   <plurals name="activity_assets_categories_group">
     <item quantity="zero">Нет товаров</item>
-    <item quantity="one">%d элемент</item>
+    <item quantity="one">%d товар</item>
     <item quantity="other">%d товаров</item>
   </plurals>
   <plurals name="activity_assets_items_group">

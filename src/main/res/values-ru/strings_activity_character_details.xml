@@ -12,7 +12,7 @@
   <string name="activity_character_details_history_since">С %1$s</string>
   <string name="activity_character_details_history_between">От %1$s до %2$s</string>
   <string name="activity_character_details_location_none">Нет информации о местоположении</string>
-  <string name="activity_character_details_clone_unknown">неназванный</string>
+  <string name="activity_character_details_clone_unknown">Без имени</string>
   <string name="activity_character_details_jump_activation_none">Активный</string>
   <string name="activity_character_details_jump_last_none">Нет информации о прыжке</string>
   <string name="activity_character_details_jump_fatigue_none">Нет усталости от прыжка</string>
@@ -25,7 +25,7 @@
   <string name="activity_character_details_clones_jump_on">Последний прыжок на %1$s</string>
   <string name="activity_character_details_clones_jump_ago">%1$s назад</string>
   <string name="activity_character_details_clones_jump_unknown">Последний прыжок неизвестен</string>
-  <string name="activity_character_details_remap_last_unknown">неизвестный</string>
+  <string name="activity_character_details_remap_last_unknown">неизвестно</string>
   <string name="activity_character_details_remap_free_none">Никто</string>
   <string name="activity_character_details_remap_free">%1$d доступно переназначение</string>
 </resources>

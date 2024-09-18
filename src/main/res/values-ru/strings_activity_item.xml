@@ -5,10 +5,10 @@
   <string name="activity_item_widget_tab_requirements">Навыки</string>
   <string name="activity_item_attribute_structure">Состав</string>
   <string name="activity_item_attribute_fitting">Совместимости</string>
-  <string name="activity_item_attribute_armor">Бронь</string>
+  <string name="activity_item_attribute_armor">Броня</string>
   <string name="activity_item_attribute_shield">Щит</string>
   <string name="activity_item_attribute_capacitor">Конденсатор</string>
   <string name="activity_item_attribute_targeting">Нацеливание</string>
-  <string name="activity_item_attribute_propulsion">Силовая установка</string>
+  <string name="activity_item_attribute_propulsion">Двигательная установка</string>
   <string name="activity_item_attribute_drones">Дроны</string>
 </resources>

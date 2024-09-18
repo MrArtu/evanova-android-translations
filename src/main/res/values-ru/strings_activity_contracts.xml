@@ -18,7 +18,7 @@
   <string name="activity_contracts_status_expired">Истекший</string>
   <string name="activity_contracts_status_expires_on">Истекает %1$s</string>
   <string name="activity_contracts_status_completed">Завершенный</string>
-  <string name="activity_contracts_status_completed_on">Завершено %1$s</string>
+  <string name="activity_contracts_status_completed_on">Завершится %1$s</string>
   <string name="activity_contracts_status_due_on">Причитается %1$s</string>
   <string name="activity_contracts_status_inprogress">В ходе выполнения</string>
   <string name="activity_contracts_status_outstanding">выдающийся</string>
@@ -50,6 +50,6 @@
   <string name="activity_contract_status_reversed">Перевернутый</string>
   <string name="activity_contract_status_failed">Не удалось</string>
   <string name="activity_contract_status_unknown">неизвестный</string>
-  <string name="activity_contract_contractor_unknown">Нет выполнителя</string>
+  <string name="activity_contract_contractor_unknown">исполнитель неизвестен</string>
   <string name="activity_contract_issuer_by">Выдано %1$s</string>
 </resources>

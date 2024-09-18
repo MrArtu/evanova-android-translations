@@ -40,5 +40,5 @@
   <string name="activity_account_scopes_contracts_title">Контракты</string>
   <string name="activity_account_scopes_market_title">Рыночные заказы</string>
   <string name="activity_account_scopes_wallet_title">Баланс кошелька и транзакции</string>
-  <string name="activity_account_scopes_fitting_title">Совместимости</string>
+  <string name="activity_account_scopes_fitting_title">Оснастка</string>
 </resources>
